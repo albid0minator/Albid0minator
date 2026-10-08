@@ -5,10 +5,6 @@
 <img src="https://img.shields.io/github/followers/Albid0minator?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </p>
 
-### 💫 Su di me
-- 👨‍💻 **Lavoro:** Attualmente Developer presso **Noa SNC**
-- 🎓 **Studi:** Studente di Ingegneria presso il **Politecnico di Torino (PoliTo)**
-- 🌍 **Passioni:** Mi piace esplorare nuove tecnologie, dalla programmazione di sistema (C/Go) al mobile (Dart/Kotlin) fino al cloud.
 
 ---
 
@@ -62,7 +58,6 @@
 ### 🌐 Social & Contatti
 <p align="left">
 <a href="https://discord.gg/Albid0minator" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a>
-<a href="https://twitch.tv/Cippetto" target="blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge" alt="Twitch" /></a>
 </p>
 
 <br />
